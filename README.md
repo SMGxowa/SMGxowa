@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SMGxowa
 - 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular.js, Node.js, Express.js & MongoDB
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.js, Node.js, Express.js & MongoDB
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript projects.
 - 📫 How to reach me: maxwell.gxowa@gmail.com or LinkedIn - https://www.linkedin.com/in/siyamthandamaxwellgxowa/
+- My blog: https://siyamthandagxowa.hashnode.dev/
 
 <!---
 SMGxowa/SMGxowa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
