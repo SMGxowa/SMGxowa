@@ -8,7 +8,7 @@ I started learning to code in 2020 when I was introduced to AR, VR, and game dev
 
 *   🌍  I'm based in George, South Africa
 *   ✉️  You can contact me at [maxwell.gxowa@gmail.com](mailto:maxwell.gxowa@gmail.com)
-*   🚀  I'm currently working on [Twitter Clone](http://https://twitter-for-max.netlify.app/)
+*   🚀  I'm currently working on my portfolio.
 *   🧠  I'm learning MERN stack### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
